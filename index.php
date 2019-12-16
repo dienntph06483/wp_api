@@ -19,7 +19,7 @@ include_once 'config.php';
                     <table id="example" class="display" style="width:100%">
                         <thead>
                             <tr>
-                                <th>Sr No</th>
+                                <th>Sr. No</th>
                                 <th>Title</th>
                                 <th>Description</th>
                                 <th>Slug</th>
