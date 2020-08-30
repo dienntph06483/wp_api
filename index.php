@@ -1,4 +1,5 @@
 <?php
+// include file config
 include_once 'config.php';
 ?>
 
